@@ -1,15 +1,10 @@
 # CarePath – An Intelligent Patient Navigation Agent
 
-**Capstone Submission | Agents for Good – Healthcare Track**  
-**Author:** Jahnavi Umarji  
-**Platform:** Kaggle Notebook  
-**Status:** ✅ Complete & Production-Ready
-
 ---
 
 ## 📋 Overview
 
-**CarePath** is a multi-agent healthcare navigation system that demonstrates all key concepts from the Google Agentic AI course. It acts as an intelligent care companion helping patients with chronic conditions (e.g., diabetes, hypertension) manage their health by:
+**CarePath** is a multi-agent healthcare navigation system that acts as an intelligent care companion helping patients with chronic conditions (e.g., diabetes, hypertension) manage their health by:
 
 - 🏥 **Building structured patient profiles** with conditions, medications, and health goals
 - 📊 **Monitoring symptoms** over time and detecting risky patterns  
