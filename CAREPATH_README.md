@@ -39,6 +39,9 @@ All examples are **simulated** for educational purposes.
 
 ## 🏗️ Architecture Overview
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/48735b30-a641-462f-aa9c-2a69cf29134f" />
+
+
 ### Multi-Agent System (5 Specialized Agents)
 
 ```
