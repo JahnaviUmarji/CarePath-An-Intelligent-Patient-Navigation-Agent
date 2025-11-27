@@ -461,16 +461,6 @@ By studying this capstone, you'll understand:
 
 ---
 
-## 📞 Support
-
-For questions or issues:
-1. Check the demo sections (Cells 12-25) for usage examples
-2. Review docstrings in each class/function
-3. Examine the error messages and logs for debugging
-4. Consult the "Production Deployment Checklist" for deployment issues
-
----
-
 **Built with ❤️ for better patient care.**  
 **Jahnavi Umarji | Google Agentic AI Course | Capstone Submission**
 
